@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "de.jakiki6.baxhax.Mod"
+      "de.jakiki6.badhax.Mod"
     ]
   },
   "mixins": [
